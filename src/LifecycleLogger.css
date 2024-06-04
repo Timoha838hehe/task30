@@ -1,0 +1,26 @@
+.lifecycle-logger {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  .log-console {
+    text-align: left;
+    width: 300px;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+    background-color: #f9f9f9;
+    height: 200px;
+    overflow-y: auto;
+  }
+  
+  .log-console div {
+    margin-bottom: 10px;
+  }
+  
